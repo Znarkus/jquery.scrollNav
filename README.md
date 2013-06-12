@@ -6,7 +6,7 @@ Elegant single page/anchor navigation
 
 ## Features
 
-- Intellegently detect what "page" is scrolled into view.
+- Intelligently detect what "page" is scrolled into view.
 - Optionally set scroll offset.
 
 
